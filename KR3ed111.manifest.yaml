@@ -1,0 +1,177 @@
+canonical_identifier: bkk:krp/KR3ed111/v1
+canonical_location: https://kanripo.org/bkk/KR3ed111/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 旅舍備要方
+  identifiers:
+    krp: KR3ed111
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04370
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed111.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed111_000.yaml, hash: 'sha256:23a0b4ddcc85522c90fbc2ac767034be7597ffa902cb02426e4f7d1caeacf61f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed111_000.markers.yaml, hash: 'sha256:de6d76bc36bb74cb7975ea67c7ba8595a7f86706111edc552e853fc20bcf9fe6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 161
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d3.h1s1
+    span:
+    - front
+    - 161
+    - 335
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 203
+  label: 斑疹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d5.h1s1
+    span:
+    - body
+    - 203
+    - 468
+  label: 痰證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d6.h1s1
+    span:
+    - body
+    - 468
+    - 1342
+  label: 霍亂
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d7.h1s1
+    span:
+    - body
+    - 1342
+    - 1668
+  label: 腰痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d8.h1s1
+    span:
+    - body
+    - 1668
+    - 1819
+  label: 眼
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d9.h1s1
+    span:
+    - body
+    - 1819
+    - 1843
+  label: 耳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d10.h1s1
+    span:
+    - body
+    - 1843
+    - 1922
+  label: 口
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d11.h1s1
+    span:
+    - body
+    - 1922
+    - 2122
+  label: 齒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d12.h1s1
+    span:
+    - body
+    - 2122
+    - 2176
+  label: 中毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d13.h1s1
+    span:
+    - body
+    - 2176
+    - 2390
+  label: 婦人科
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d14.h1s1
+    span:
+    - body
+    - 2390
+    - 3166
+  label: 小兒科
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d15.h1s1
+    span:
+    - body
+    - 3166
+    - 3627
+  label: 瘡科
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed111_jc_000-d16.h1s1
+    span:
+    - body
+    - 3627
+    - 3926
+  label: 雜傷
+  type: section
+  level: 1
+hash: sha256:d1cbe5218f05fa0f52b77c5b9c6cc9c5a7ae34f0ef0c419ad4ba73f2f74fddab
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
