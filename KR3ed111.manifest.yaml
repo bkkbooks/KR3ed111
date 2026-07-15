@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed111/v1
 canonical_location: https://kanripo.org/bkk/KR3ed111/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 旅舍備要方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed111_000.yaml, hash: 'sha256:6b04dac198f8f9e804abf06ed07dcc59b326886e2e896ada83823ac06ca458aa'}
+  - {seq: 0, filename: KR3ed111_000.yaml, hash: 'sha256:6de0e2e4b888c080062fb0dc97e11da39bf8ffab4d4a3c84103a2e54c66e81fb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed111_000.markers.yaml, hash: 'sha256:01121ef63bd29b8a6a1e7d975e12f4606fac822925bc89bc90f801c0f1db0a4e'}
+  - {seq: 0, role: markers, filename: assets/KR3ed111_000.markers.yaml, hash: 'sha256:aa77cca363edb2d6aea5deb7a931bec51bd029842f8c5f903872f1069a0e31de'}
 table_of_contents:
 - ref:
     seq: 0
@@ -171,4 +171,7 @@ table_of_contents:
   label: 雜傷
   type: section
   level: 1
-hash: sha256:006381549c29077dfd3836139bccef7de6a37e15a1b7b7ed93187bc1c35294a6
+hash: sha256:42aac789b5be9db288a35d5640805419ee044effc94e3517464da66033c81dd6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
