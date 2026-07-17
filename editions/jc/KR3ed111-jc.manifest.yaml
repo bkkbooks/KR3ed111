@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed111_000-jc.yaml, hash: 'sha256:6b04dac198f8f9e804abf06ed07dcc59b326886e2e896ada83823ac06ca458aa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed111_000-jc.markers.yaml, hash: 'sha256:ad49d7c59d43ccda78e11e72ec71834fde229874e04f5685713258107f4b28f4'}
+  - {seq: 0, role: markers, filename: assets/KR3ed111_000-jc.markers.yaml, hash: 'sha256:7943c114e99767c7193a1daf4073aa3ab251ad025297ffb352d5e883b11192bb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -171,4 +171,4 @@ table_of_contents:
   label: 雜傷
   type: section
   level: 1
-hash: sha256:3c39e95c703008e45338412ca539d0c1a8348d5c51bfb443cbe7b7f649fcf7fd
+hash: sha256:56d582684fe3e0cb2edbbb4fc233064bc24ad57d1e1f202a09cfb56dc9cc59d3
